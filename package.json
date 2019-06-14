@@ -1,0 +1,29 @@
+{
+  "name": "aliyun-oss-assets-uploader",
+  "version": "1.0.0",
+  "description": "aliyun oss assets uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '42'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baaifrontend/aliyun-oss-assets-uploader.git"
+  },
+  "keywords": [
+    "aliyun-oss",
+    "assets",
+    "static",
+    "upload",
+    "sync"
+  ],
+  "author": "baaifrontend <baaifrontend@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baaifrontend/aliyun-oss-assets-uploader/issues"
+  },
+  "homepage": "https://github.com/baaifrontend/aliyun-oss-assets-uploader#readme",
+  "dependencies": {
+    "ali-oss": "^6.1.1"
+  }
+}
